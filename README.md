@@ -1,7 +1,7 @@
 <h1>Keycap files</h1>
 Hi Welcome to this repo
 
-stl files are in the folder, named as {{keycapname}}.stl
+stl files are in the folders, named as {{keycapname}}.stl
 
 Theres two folders to this repository: [keycaps, stick on prints]
 
